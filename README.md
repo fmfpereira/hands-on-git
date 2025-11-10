@@ -23,7 +23,7 @@ git branch
 ```
 
 ```shell
-  [your-name]-branch
+  filipe-branch
 * main
 ```
 
@@ -147,13 +147,13 @@ git log
 
 ```shell
 commit fad9d9e424ec0fcc3416da05d3dca4d050af3adb (HEAD -> filipe-branch)
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 21:44:12 2025 +0000
 
     First commit from Filipe
 
 commit 57b3a0b75082164012acba9addc7b69e4da50a8f (main)
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 21:41:34 2025 +0000
 
     Initial commit
@@ -177,7 +177,7 @@ git show 57b3a0b
 
 ```shell
 commit 57b3a0b75082164012acba9addc7b69e4da50a8f (main)
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 21:41:34 2025 +0000
 
     Initial commit
@@ -335,25 +335,25 @@ git log
 ```shell
 commit e1e54324d5e80d58c6113460c0a92c919ba91e41 (HEAD -> filipe-branch)
 Merge: fad9d9e f0957fb
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 22:10:23 2025 +0000
 
     Fix merge conflicts
 
 commit f0957fb354215e8e15602cd6e60104ef0061e388 (main-merge-conflict)
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 22:05:49 2025 +0000
 
     Add name and surname tokens to index
 
 commit fad9d9e424ec0fcc3416da05d3dca4d050af3adb
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 21:44:12 2025 +0000
 
     First commit from Filipe
 
 commit 57b3a0b75082164012acba9addc7b69e4da50a8f (main)
-Author: fmfpereira <fmfpereira@gmail.com>
+Author: fmfpereira <fmfpereira>
 Date:   Mon Nov 10 21:41:34 2025 +0000
 
     Initial commit
