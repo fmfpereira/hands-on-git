@@ -14,7 +14,7 @@ In Git, a `branch` is like a separate workspace where you can make changes and
 
 1. Create a new branch
 ```shell
-git branch filipe-branch
+git branch [your-name]-branch
 ```
 
 2. List all branches
@@ -23,13 +23,13 @@ git branch
 ```
 
 ```shell
-  filipe-branch
+  [your-name]-branch
 * main
 ```
 
 3. Switching Between Branches
 ```shell
-git checkout filipe-branch
+git checkout [your-name]-branch
 ```
 
 ### Untracked and tracked files
