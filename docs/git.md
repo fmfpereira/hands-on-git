@@ -3,7 +3,7 @@
 # Git
 
 `fmfpereira.github.io/hands-on-git`
-`gitlab.com/fmfpereira/hands-on-git`
+`github.com/fmfpereira/hands-on-git`
 
 ---
 
